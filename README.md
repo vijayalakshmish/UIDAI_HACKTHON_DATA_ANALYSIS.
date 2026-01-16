@@ -132,10 +132,7 @@ An interactive Power BI dashboard was developed to operationalize insights for a
 - Enables data-driven governance
 - Supports last-mile inclusion initiatives
 
-### UN SDGs
-- **SDG **: Digital infrastructure optimization
-- **SDG **: Reduced inequalities
-- **SDG **: Strong institutions through transparency
+
 
 ---
 
